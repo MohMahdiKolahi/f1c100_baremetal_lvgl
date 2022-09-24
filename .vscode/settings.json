@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "f1c100s_pwm.h": "c",
+        "lvgl.h": "c",
+        "lv_cont.h": "c",
+        "stdint.h": "c",
+        "system.h": "c",
+        "events_init.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "f1c100s_intc.h": "c",
+        "f1c100s_uart.h": "c",
+        "f1c100s_de.h": "c",
+        "custom.h": "c",
+        "gui_guider.h": "c"
+    }
+}
